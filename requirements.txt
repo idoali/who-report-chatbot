@@ -1,0 +1,13 @@
+streamlit
+typing-extensions
+langchain
+kaleido
+tiktoken
+python-multipart
+cohere
+openai
+transformers
+huggingface-hub
+chromadb
+sentence-transformers
+PyPDF2
