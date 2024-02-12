@@ -1,6 +1,6 @@
 # WHO Report Chatbot with LangChain and Streamlit
 
-![Chatbot]("media/chatbot.gif")
+![Chatbot](media/chatbot.gif)
 
 ## Introduction
 
@@ -24,13 +24,13 @@ We will then combine it LangChain, which is a new framework we can use to connec
 report_chatbot
 |-- Hello.py
 |-- docs
-		|-- chroma_db
-		|-- summaries.json
-		|-- world-health-statistics.pdf
+	|-- chroma_db
+	|-- summaries.json
+	|-- world-health-statistics.pdf
 |-- notebook.ipynb
 |-- pages
-		|-- 1_☕_Summary.py
-		|-- 2_🎡_Chat.py
+	|-- 1_☕_Summary.py
+	|-- 2_🎡_Chat.py
 |-- utils.py
 ```
 
